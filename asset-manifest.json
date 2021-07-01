@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-meals/static/css/main.540087eb.chunk.css",
+    "main.js": "/react-meals/static/js/main.000c7a97.chunk.js",
+    "main.js.map": "/react-meals/static/js/main.000c7a97.chunk.js.map",
+    "runtime-main.js": "/react-meals/static/js/runtime-main.2330b551.js",
+    "runtime-main.js.map": "/react-meals/static/js/runtime-main.2330b551.js.map",
+    "static/js/2.cb0ff485.chunk.js": "/react-meals/static/js/2.cb0ff485.chunk.js",
+    "static/js/2.cb0ff485.chunk.js.map": "/react-meals/static/js/2.cb0ff485.chunk.js.map",
+    "index.html": "/react-meals/index.html",
+    "static/css/main.540087eb.chunk.css.map": "/react-meals/static/css/main.540087eb.chunk.css.map",
+    "static/js/2.cb0ff485.chunk.js.LICENSE.txt": "/react-meals/static/js/2.cb0ff485.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/react-meals/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2330b551.js",
+    "static/js/2.cb0ff485.chunk.js",
+    "static/css/main.540087eb.chunk.css",
+    "static/js/main.000c7a97.chunk.js"
+  ]
+}
